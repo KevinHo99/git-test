@@ -6,5 +6,6 @@ public class GitDemo {
         System.out.println("hello yaOrange!");
         System.out.println("hello world!");
         System.out.println("hello hot-fix!");
+        System.out.println("hot-fix!");
     }
 }
